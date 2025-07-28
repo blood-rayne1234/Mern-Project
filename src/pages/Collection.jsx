@@ -2,7 +2,11 @@ import React from 'react'
 
 const Collection = () => {
   return (
-    <div>Collection</div>
+    <div>
+      
+      <h1>hiiiiiiiiiiiiiiiiiiii</h1>
+    </div>
+    
   )
 }
 
