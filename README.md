@@ -1,4 +1,4 @@
-## 💪 ForeverFit MERN Stack Project
+## 💪 Forever MERN Stack Project
 
 A full-stack MERN application with Tailwind CSS and Vite — built and updated weekly.
 
