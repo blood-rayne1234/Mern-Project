@@ -16,7 +16,7 @@ This is an e-commerce focused full-stack app built using:
 
 ## 🔗 Live Demo
 
-🌐 to be done
+🌐 https://mern-project-psi-seven.vercel.app/
 
 ---
 
